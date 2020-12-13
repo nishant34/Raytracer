@@ -5,3 +5,4 @@ Basic raytracer in C++
 g++ Raytracer.cpp
 ```
 * Then a .ppm file will be generated which can then be converted to .jpg file online.
+![Converted jpg file](https://github.com/nishant34/Raytracer/blob/main/out%20(3).jpg)
